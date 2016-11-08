@@ -5,7 +5,6 @@ int main() {
   
   int options[10];
   int feedbacks[10];
-  int goal = 2;
   int result;
   int feedback;
   char try;
